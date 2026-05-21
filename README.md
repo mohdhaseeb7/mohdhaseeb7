@@ -1,39 +1,90 @@
-<h1 align="center">Hi 👋, I'm Haseeb</h1>
+<div align="center">
 
-<h3 align="center">Backend / Full Stack Developer</h3>
+# Mohammed Haseeb Uddin
 
----
+### Backend / Full Stack Developer
 
-## 🚀 Tech Stack
+Building modern web applications with JavaScript, React and Node.js.
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
+Currently focused on improving backend architecture, authentication systems and scalable full-stack applications.
 
----
+<p>
+  <a href="https://www.linkedin.com/in/mohdhaseeb7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 
-## 📌 Projects
+  <a href="https://haseebuddin.in/">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-- Expense Tracker
-- Stopwatch App
-- Task Manager
-- Portfolio Website
+  <a href="mailto: haseeb20057@gmail.com">
+    <img src="https://img.shields.io/badge/Get_in_Touch-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
 
----
-
-## 🌱 Currently Learning
-
-- Advanced React
-- Backend Architecture
-- Authentication Systems
+</div>
 
 ---
 
-## 📫 Connect With Me
+```js
+const haseeb = {
+  currentFocus: [
+    "frontend development",
+    "full-stack applications",
+    "backend systems"
+  ],
 
-LinkedIn: https://www.linkedin.com/in/mohdhaseeb7/ 
-Portfolio: https://haseebuddin.in/
+  building: [
+    "responsive web applications",
+    "authentication systems",
+    "real-world JavaScript projects",
+    "React and Node.js applications"
+  ],
+
+  learning: [
+    "advanced React",
+    "system design basics",
+    "backend architecture"
+  ],
+
+  worksWith: [
+    "freelance projects",
+    "team collaborations",
+    "open-source learning"
+  ]
+};
+```
+
+# Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# Featured Projects
+
+## Expense Tracker
+Responsive expense tracker with localStorage support and dynamic DOM updates.
+
+## Stopwatch App
+Minimal stopwatch application built with vanilla JavaScript.
+
+## Task Manager
+Task management application focused on productivity and clean UI.
+
+---
+
+# GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mohdhaseeb7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhaseeb7&theme=tokyonight&hide_border=false&layout=compact)
