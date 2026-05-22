@@ -87,4 +87,4 @@ Task management application focused on productivity and clean UI.
 
 ![](https://github-readme-stats.vercel.app/api?username=mohdhaseeb7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhaseeb7&theme=tokyonight&hide_border=false&layout=compact)
+![Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhaseeb7&theme=tokyonight&hide_border=false&layout=compact)
